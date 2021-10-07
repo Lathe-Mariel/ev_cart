@@ -11,25 +11,32 @@
 　インシュロック（タイラップ）を通すための角穴を用意してあるので，角パイプへの固定に不安がある場合や，配線をまとめたい場合に利用してください．
 
 ### ダウンロード・データ
-1. [部品1](swb_p1.stl) [データを眺める](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p1.stl)
-1. [部品2](swb_p2.stl) [データを眺める](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p2.stl)
+1. [部品1のSTLファイル](swb_p1.stl) [(データを眺める)](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p1.stl)
+1. [部品2のSTLファイル](swb_p2.stl) [(データを眺める)](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p2.stl)
 
 ### 参考写真
 
 ![2pieces](1.jpg)
 写真1　2ピース構造
+
 ![part2](2.jpg)
 写真2　カートの角パイプにマウントできるようになっている
+
 ![2toggle_sw](3.jpg)
 写真3　2つのトグル・スイッチを取り付けできる
+
 ![under](4.jpg)
 写真4　トグル・スイッチは下から差し込む
+
 ![adding_to_cart](5.jpg)
 写真5　カートへの取り付け例
+
 ![wire](6.jpg)
 写真6　トグル・スイッチの配線は下に出てくる
+
 ![nut](7.jfif)
 写真7　6角ナットでトグル・スイッチと分割されたケースを共締めする
+
 ![cad_model](fig1.png)
 図1　CAD上のモデル
 
