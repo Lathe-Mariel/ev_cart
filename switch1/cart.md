@@ -11,8 +11,8 @@
 　インシュロック（タイラップ）を通すための角穴を用意してあるので，角パイプへの固定に不安がある場合や，配線をまとめたい場合に利用してください．
 
 ### ダウンロード・データ
-1. [部品1のSTLファイル](swb_p1.stl) [(データを眺める)](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p1.stl)
-1. [部品2のSTLファイル](swb_p2.stl) [(データを眺める)](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p2.stl)
+1. [部品1のSTLファイル](swb_p1.stl) | [(データを眺める)](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p1.stl)
+1. [部品2のSTLファイル](swb_p2.stl) | [(データを眺める)](https://github.com/Lathe-Mariel/ev_cart/tree/main/switch1/swb_p2.stl)
 
 ### 参考写真
 
